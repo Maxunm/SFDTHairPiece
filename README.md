@@ -7,6 +7,7 @@ This project is to create a compact and efficent package for a hair piece that i
 ## About the team
 
 
-### This project is covered under Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
+## This project is covered under Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
 ![Screenshot 2025-01-29 112228](https://github.com/user-attachments/assets/7a8fecff-9b34-4d53-886f-f80ee79e6e25)
+
 You can view additional details on [this page](https://creativecommons.org/licenses/by-nc-nd/4.0/)
